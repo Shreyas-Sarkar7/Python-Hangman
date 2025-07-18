@@ -182,7 +182,7 @@ class HangmanGame:
             print("1. Play Game")
             print("2. Exit")
 
-            choice = input("\nEnter your choice (1-4): ")
+            choice = input("\nEnter your choice (1-2): ")
 
             if choice == "1":
                 self.play_game()
